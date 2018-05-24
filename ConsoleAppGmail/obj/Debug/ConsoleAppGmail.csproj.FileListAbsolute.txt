@@ -1,0 +1,7 @@
+C:\Users\Ronan\source\repos\ConsoleAppGmail\ConsoleAppGmail\bin\Debug\ConsoleAppGmail.exe.config
+C:\Users\Ronan\source\repos\ConsoleAppGmail\ConsoleAppGmail\bin\Debug\ConsoleAppGmail.exe
+C:\Users\Ronan\source\repos\ConsoleAppGmail\ConsoleAppGmail\bin\Debug\ConsoleAppGmail.pdb
+C:\Users\Ronan\source\repos\ConsoleAppGmail\ConsoleAppGmail\obj\Debug\ConsoleAppGmail.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\ConsoleAppGmail\ConsoleAppGmail\obj\Debug\ConsoleAppGmail.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\source\repos\ConsoleAppGmail\ConsoleAppGmail\obj\Debug\ConsoleAppGmail.exe
+C:\Users\Ronan\source\repos\ConsoleAppGmail\ConsoleAppGmail\obj\Debug\ConsoleAppGmail.pdb
